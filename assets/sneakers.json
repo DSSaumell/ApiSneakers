@@ -1,0 +1,36 @@
+{
+    "sneakers": [
+        {
+            "id": 1,
+            "idName": "Reverse Mocha",
+            "name": "Jordan 1 Retro Low Travis Scott Reverse Mocha",
+            "price": "1643 €",
+            "image": "https://newcop.com/cdn/shop/files/mmc5xbz6mqlIoFDXA5ILa2IdzVtm4LVmFQ47Kz-uEgY_2048x.png?v=1722375876",
+            "rating": "9"
+        },
+        {
+            "id": 2,
+            "idName": "Forum BB",
+            "name": "Adidas Forum Buckle Low Bad Bunny Easter Egg",
+            "price": "578 €",
+            "image": "https://cdn.shopify.com/s/files/1/2358/2817/products/forum-low-bad-bunny-pink-easter-egg-804889.png?v=1638813988",
+            "rating": "7"
+        },
+        {
+            "id": 3,
+            "idName": "AF1 MoMa",
+            "name": "Nike Air Force 1 Low'07 OFF-WHITE MoMA",
+            "price": "28.866 €",
+            "image": "https://cdn.sneakerbaron.nl/uploads/2021/02/23131200/Nike-x-Off-White-Air-Force-AF-1-Low-MoMA-2019-Black-AV5210-001.png",
+            "rating": "8"
+        },
+        {
+            "id": 4,
+            "idName": "FoamRNR GG",
+            "name": "Yeezy Foam RNR MX in Granite Gray",
+            "price": "88 €",
+            "image": "https://www.sneakerlane.es/wp-content/uploads/2024/05/adidas-yeezy-foam-rnr-mx-granite22.png",
+            "rating": "6"
+        }
+    ]
+}
